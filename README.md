@@ -34,6 +34,7 @@ vehicle_simulation_viz/
 ---
 ## 🎇 Example
 
+![Example](vehicle_simulation_example.gif)
 
-
+---
 
